@@ -38,10 +38,13 @@ A robust, microservices-style Full-Stack application designed to manage, track, 
 ## 📸 Screenshots
 
 ### 1. The Interactive Dashboard
-*(Add a screenshot of your main "Overview" tab here)*
+<img width="1266" height="659" alt="image" src="https://github.com/user-attachments/assets/cb086266-3cf9-4122-bfc5-cdeeadcbfcd5" />
+
 
 ### 2. Advanced Analytics & Charts
-*(Add a screenshot of your "Advanced Analytics" tab with the donut chart here)*
+<img width="1009" height="663" alt="image" src="https://github.com/user-attachments/assets/19425a22-f8d7-423c-b80f-e0bbd2da4076" />
+
+
 
 ---
 
